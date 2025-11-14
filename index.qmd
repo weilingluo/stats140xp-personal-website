@@ -1,17 +1,28 @@
 ---
-title: "personal-website"
+title: "Weiling Luo"
+about: 
+  template: trestles
+  image: profile-pic.png
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/weilingluo
+    - text: LinkedIn
+      url: "https://www.linkedin.com/feed/"
+    - text: Email
+      url: "mailto:weilingluo1210@gmail.com"
+      icon: inbox-fill
+    - text: RESUME
+      url: "cv.pdf"
+toc: false
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Weiling Luo is a Statistics & Data Science major at University of California, Los Angeles. During free time Weiling enjoys watching drama shows including C-drama, K-drama, Thai-drama, and etc
 
 
-```{r}
-runif(10)
-```
+
+## Education
+University of California, Los Angeles | Los Angeles, CA
+B.S in Statistics & Data Science | Sept 2024 - June 2026
+
 

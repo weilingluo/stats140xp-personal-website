@@ -9,8 +9,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website",
+    "title": "Weiling Luo",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.5607479 0.3765291 0.7842203 0.3356448 0.6428872 0.9415865 0.4305695\n [8] 0.5766825 0.2304869 0.2215693"
+    "text": "Weiling Luo is a Statistics & Data Science major at University of California, Los Angeles. During free time Weiling enjoys watching drama shows including C-drama, K-drama, Thai-drama, and etc"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Weiling Luo",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S in Statistics & Data Science | Sept 2024 - June 2026"
   }
 ]
