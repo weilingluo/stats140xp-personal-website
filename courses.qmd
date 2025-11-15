@@ -3,3 +3,33 @@ title: "courses"
 format: html
 ---
 
+UCLA 2024 Fall  
+- Stats 20  
+- Stats 100A  
+- Comm 188C  
+
+UCLA 2025 Winter  
+- Stats 100B  
+- Stats 101A  
+- Stats 102A  
+
+UCLA 2025 Spring  
+- Stats 100C  
+- Stats 101B  
+- Stats 102B  
+
+UCLA 2025 Summer  
+- Stats 102C  
+- Dgt Hum 101  
+- Environ 25  
+
+UCLA 2025 Fall (In progress)  
+- Stats 101C  
+- Stats 140XP  
+- Scand 50
+
+
+
+
+
+

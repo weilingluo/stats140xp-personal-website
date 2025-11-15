@@ -19,7 +19,7 @@ toc: false
 
 Weiling Luo is a Statistics & Data Science major at University of California, Los Angeles. During free time Weiling enjoys watching drama shows including C-drama, K-drama, Thai-drama, and etc
 
-
+Here is my attached [CV](cv.pdf)
 
 ## Education
 University of California, Los Angeles | Los Angeles, CA
