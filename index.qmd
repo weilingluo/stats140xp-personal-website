@@ -13,13 +13,14 @@ about:
       url: "mailto:weilingluo1210@gmail.com"
       icon: inbox-fill
     - text: RESUME
-      url: "cv.pdf"
+      url: "WEILING_LUO_Resume_2025.pdf"
+      icon: file-earmark-person-fill
 toc: false
 ---
 
 Weiling Luo is a Statistics & Data Science major at University of California, Los Angeles. During free time Weiling enjoys watching drama shows including C-drama, K-drama, Thai-drama, and etc
 
-Here is my attached [CV](cv.pdf)
+Here is my attached [Resume](WEILING_LUO_Resume_2025.pdf)
 
 ## Education
 University of California, Los Angeles | Los Angeles, CA

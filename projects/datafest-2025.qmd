@@ -1,0 +1,26 @@
+---
+title: "ASA DataFest 2025 – Commercial Real Estate Analytics"
+subtitle: "Spring 2025 • UCLA"
+location: "Los Angeles, CA"
+categories: ["DataFest", "Real Estate Analytics", "Visualization", "R Programming"]
+image: "datafest2025.png"
+---
+
+# ASA DataFest 2025 — Commercial Real Estate Analytics
+
+Analyzed **200K+ commercial lease records (2018–2024)** from Savills to uncover post-COVID leasing trends in Manhattan’s financial sector.
+
+## Key Insights
+- Manhattan dominated U.S. office leasing volume both before and after COVID.  
+- Class-A demand increased **50%**, while B/C space lagged.  
+- South Manhattan ZIP codes (10001, 10022) showed the highest square footage.  
+- Availability remained high (15–20%), giving tenants leverage.  
+- Hybrid work reduced seating needs but intensified “flight-to-quality.”
+
+## My Contributions
+- Cleaned and analyzed 200K+ leasing records  
+- Visualized geographic clustering, Class-A trends, and occupancy correlations  
+- Co-developed the narrative, insights, and final presentation  
+
+## Files
+- **Presentation Slides:** [Download](C1BiliBili.pdf)

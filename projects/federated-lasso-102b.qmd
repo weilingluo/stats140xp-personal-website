@@ -1,0 +1,35 @@
+---
+title: "Lasso Regression & Federated Learning (STAT 102B Final Project)"
+subtitle: "Spring 2025 • UCLA"
+location: "Los Angeles, CA"
+categories: ["Machine Learning", "Lasso Regression", "Federated Learning", "High-Dimensional Data", "R Programming"]
+image: "lasso102b.png"
+---
+
+# Lasso Regression & Federated Learning (STAT 102B)
+
+This project implemented **coordinate descent Lasso** and extended it into a **federated learning system** where three nodes trained shared models without exchanging raw data.
+
+## Part A — Local Lasso
+- Implemented cyclic coordinate descent with soft-thresholding  
+- Tuned λ via validation loss (grid search)  
+- Found **13 overlapping predictors** across nodes  
+- Smaller datasets required stronger regularization  
+- Sparser models generalized better  
+
+## Part B — Federated Lasso
+- Nodes independently tuned λ  
+- Performed U local updates, then aggregated weighted coefficients  
+- Compared **5-update vs. 10-update** synchronization  
+- Federated model matched test accuracy of best node while reducing variance  
+- Less frequent aggregation reduced communication at no accuracy cost  
+
+## My Contributions
+- Wrote full coordinate descent implementation  
+- Built federated synchronization loop and coefficient aggregator  
+- Visualized convergence + coefficient shrinkage patterns  
+- Wrote project analysis, discussion, and methodology sections  
+
+## Files
+- **Part A Report:** [Download](STATS 102 Final Project Report Part A.pdf)
+- **Part B Report:** [Download](STATS 102 Final Project Report Part B.pdf)

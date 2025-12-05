@@ -1,5 +1,28 @@
 ---
-title: "projects"
-format: html
+title: "Projects"
+toc: false
+listing: 
+  - id: project-listings
+    contents: 
+      - "projects/*.qmd"
+    type: default       # ← blog-style list view
+    sort: false
+    sort-ui: false
+    filter-ui: true
+    max-items: 50       # or any number you prefer
+    image-align: right  # left or right
+    image-height: "150px"
+    image-placeholder: "../images/default-project.png"
+    fields: 
+      - title
+      - subtitle
+      - location  
+      - image
+    categories: false
+  
 ---
 
+Below is a collection of my academic, data science, and digital humanities projects completed at UCLA. Each project includes analysis, modeling, visualizations, and narrative components tailored to its domain.
+
+:::project-listing
+:::

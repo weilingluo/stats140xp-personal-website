@@ -1,0 +1,31 @@
+---
+title: "Housing Price Prediction (STAT 101A Course Project)"
+subtitle: "Winter 2025 • UCLA"
+location: "Los Angeles, CA"
+categories: ["Regression Modeling", "R Programming", "Predictive Analytics"]
+image: "housing101a.png"
+---
+
+# Housing Price Prediction (STAT 101A) — Winter 2025
+
+This project applied multiple linear regression to model housing unit-area prices in Sindian District, New Taipei City, Taiwan. After using transformations, model selection, and diagnostics, our final model improved R² from ~0.58 to **0.72**.
+
+## Overview
+- Analyzed 414 real estate observations with six predictors  
+- Explored scatterplots, transformations, multicollinearity, and model assumptions  
+- Applied log transformation to Y and MRT distance to stabilize variance and improve fit  
+- Selected the final model using Adjusted R², AIC, and diagnostics  
+
+## Key Findings
+- Houses newer, close to MRT, and near convenience stores had significantly higher prices.  
+- Latitude & longitude revealed geographic price patterns across northern and eastern districts.  
+- The final model explained **72.4%** of price variation.
+
+## My Contributions
+- Data preprocessing, transformations, diagnostics  
+- Model selection and interpretation  
+- Presentation slides and narrative explanation  
+
+## Files
+- **Final Paper:** [Download](project_101a.pdf)
+- **Presentation Slides:** [Download](STATS 101A - Final Project Presentation.pdf)

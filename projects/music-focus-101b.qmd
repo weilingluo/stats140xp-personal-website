@@ -1,0 +1,32 @@
+---
+title: "The Modulatory Effects of Music Genre and Exposure Duration on Cognitive Focus (STAT 101B Final Project)"
+subtitle: "Spring 2025 • UCLA"
+location: "Los Angeles, CA"
+categories: ["ANOVA", "Experimental Design", "Cognitive Science", "R Programming"]
+image: "music-focus.png"
+---
+
+# Music Genre & Cognitive Focus (STAT 101B)
+
+A two-factor ANOVA with blocking (age & gender) analyzed how **music genre** and **listening duration** affect sustained attention.
+
+## Key Findings
+- **Significant main effects**: music type (p < 0.001), duration (p = 0.013)  
+- **Significant interaction**: genre × duration (p = 0.010)  
+- Heavy metal increased attention misses, especially at 30 minutes.  
+- Classical, Country, and Dance music maintained cognitive performance.  
+
+## Methods
+- 216 participants (multistage sampling)  
+- Blocking by age group and gender  
+- Tukey HSD to compare genre and duration levels  
+- ggplot2 visualizations (interaction plots + boxplots)
+
+## My Contributions
+- Built ANOVA model & diagnostics  
+- Created interaction and boxplot visualizations  
+- Wrote narrative analysis and interpretation sections  
+
+## Files
+- **Final Research Paper:** [Download](STATS 101B Group D Final Project Paper.pdf)
+- **Presentation Slides:** [Download](STATS 101B Group D Project Presentation.pdf)

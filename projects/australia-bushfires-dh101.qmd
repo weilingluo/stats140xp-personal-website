@@ -1,0 +1,36 @@
+---
+title: "Australia Bushfires Digital Humanities Project (DH 101 Final Project)"
+subtitle: "Summer 2025 • UCLA"
+location: "Los Angeles, CA"
+categories: ["Digital Humanities", "Mapping", "Environmental Data", "Web Development", "Visualization"]
+image: "australia-bushfires.png"
+---
+
+# Australia Bushfires Digital Humanities Project  
+**Digital Humanities 101 Final — Summer 2025**
+
+A full web-based mini-site analyzing the **2019–2020 Australian bushfires** using NASA FIRMS & MODIS fire datasets.
+
+**Live Website:** https://firestorm.humspace.ucla.edu/
+
+## Core Features
+- Interactive **geospatial fire map**  
+- **Timeline** of major fire events  
+- MODIS/NASA-based charts on fire spread & intensity  
+- Narrative analysis of environmental + social impacts  
+- Data critique discussing limitations & representational gaps  
+
+## Insights
+- Fire activity peaked during late 2019–early 2020  
+- Southeastern Australia showed extreme density and severity  
+- Climate anomalies (drought, heat) amplified risk  
+- Human communities experienced disparate impacts based on geography  
+
+## My Contributions
+- Processed fire-archive datasets (NASA/MODIS)  
+- Built interactive map, timeline, and statistical visualizations  
+- Wrote narrative sections, visualization explanations, and data critique  
+- Connected data findings to climate change + social vulnerability
+
+## Files
+- Public mini-site hosted on HumSpace

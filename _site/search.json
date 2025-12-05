@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Weiling Luo",
     "section": "",
-    "text": "Weiling Luo is a Statistics & Data Science major at University of California, Los Angeles. During free time Weiling enjoys watching drama shows including C-drama, K-drama, Thai-drama, and etc\nHere is my attached CV"
+    "text": "Weiling Luo is a Statistics & Data Science major at University of California, Los Angeles. During free time Weiling enjoys watching drama shows including C-drama, K-drama, Thai-drama, and etc\nHere is my attached Resume"
   },
   {
     "objectID": "index.html#education",
@@ -26,5 +26,215 @@
     "title": "Weiling Luo",
     "section": "Education",
     "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S in Statistics & Data Science | Sept 2024 - June 2026"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below is a collection of my academic, data science, and digital humanities projects completed at UCLA. Each project includes analysis, modeling, visualizations, and narrative components tailored to its domain.\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAustralia Bushfires Digital Humanities Project (DH 101 Final Project)\n\n\nSummer 2025 • UCLA\n\n\n\n\n\nLos Angeles, CA\n\n\n\n\n\n\n\n\n\n\n\n\nASA DataFest 2025 – Commercial Real Estate Analytics\n\n\nSpring 2025 • UCLA\n\n\n\n\n\nLos Angeles, CA\n\n\n\n\n\n\n\n\n\n\n\n\nLasso Regression & Federated Learning (STAT 102B Final Project)\n\n\nSpring 2025 • UCLA\n\n\n\n\n\nLos Angeles, CA\n\n\n\n\n\n\n\n\n\n\n\n\nHousing Price Prediction (STAT 101A Course Project)\n\n\nWinter 2025 • UCLA\n\n\n\n\n\nLos Angeles, CA\n\n\n\n\n\n\n\n\n\n\n\n\nThe Modulatory Effects of Music Genre and Exposure Duration on Cognitive Focus (STAT 101B Final Project)\n\n\nSpring 2025 • UCLA\n\n\n\n\n\nLos Angeles, CA\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "projects/housing-101a.html",
+    "href": "projects/housing-101a.html",
+    "title": "Housing Price Prediction (STAT 101A Course Project)",
+    "section": "",
+    "text": "This project applied multiple linear regression to model housing unit-area prices in Sindian District, New Taipei City, Taiwan. After using transformations, model selection, and diagnostics, our final model improved R² from ~0.58 to 0.72.\n\n\n\nAnalyzed 414 real estate observations with six predictors\n\nExplored scatterplots, transformations, multicollinearity, and model assumptions\n\nApplied log transformation to Y and MRT distance to stabilize variance and improve fit\n\nSelected the final model using Adjusted R², AIC, and diagnostics\n\n\n\n\n\nHouses newer, close to MRT, and near convenience stores had significantly higher prices.\n\nLatitude & longitude revealed geographic price patterns across northern and eastern districts.\n\nThe final model explained 72.4% of price variation.\n\n\n\n\n\nData preprocessing, transformations, diagnostics\n\nModel selection and interpretation\n\nPresentation slides and narrative explanation\n\n\n\n\n\nFinal Paper: Download\nPresentation Slides: Download"
+  },
+  {
+    "objectID": "projects/housing-101a.html#overview",
+    "href": "projects/housing-101a.html#overview",
+    "title": "Housing Price Prediction (STAT 101A Course Project)",
+    "section": "",
+    "text": "Analyzed 414 real estate observations with six predictors\n\nExplored scatterplots, transformations, multicollinearity, and model assumptions\n\nApplied log transformation to Y and MRT distance to stabilize variance and improve fit\n\nSelected the final model using Adjusted R², AIC, and diagnostics"
+  },
+  {
+    "objectID": "projects/housing-101a.html#key-findings",
+    "href": "projects/housing-101a.html#key-findings",
+    "title": "Housing Price Prediction (STAT 101A Course Project)",
+    "section": "",
+    "text": "Houses newer, close to MRT, and near convenience stores had significantly higher prices.\n\nLatitude & longitude revealed geographic price patterns across northern and eastern districts.\n\nThe final model explained 72.4% of price variation."
+  },
+  {
+    "objectID": "projects/housing-101a.html#my-contributions",
+    "href": "projects/housing-101a.html#my-contributions",
+    "title": "Housing Price Prediction (STAT 101A Course Project)",
+    "section": "",
+    "text": "Data preprocessing, transformations, diagnostics\n\nModel selection and interpretation\n\nPresentation slides and narrative explanation"
+  },
+  {
+    "objectID": "projects/housing-101a.html#files",
+    "href": "projects/housing-101a.html#files",
+    "title": "Housing Price Prediction (STAT 101A Course Project)",
+    "section": "",
+    "text": "Final Paper: Download\nPresentation Slides: Download"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is my project 2"
+  },
+  {
+    "objectID": "projects.html#project-3",
+    "href": "projects.html#project-3",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is my project 3"
+  },
+  {
+    "objectID": "projects.html#project-4",
+    "href": "projects.html#project-4",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is my project 4"
+  },
+  {
+    "objectID": "projects.html#project-5",
+    "href": "projects.html#project-5",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is my project 5"
+  },
+  {
+    "objectID": "projects/federated-lasso-102b.html",
+    "href": "projects/federated-lasso-102b.html",
+    "title": "Lasso Regression & Federated Learning (STAT 102B Final Project)",
+    "section": "",
+    "text": "This project implemented coordinate descent Lasso and extended it into a federated learning system where three nodes trained shared models without exchanging raw data.\n\n\n\nImplemented cyclic coordinate descent with soft-thresholding\n\nTuned λ via validation loss (grid search)\n\nFound 13 overlapping predictors across nodes\n\nSmaller datasets required stronger regularization\n\nSparser models generalized better\n\n\n\n\n\nNodes independently tuned λ\n\nPerformed U local updates, then aggregated weighted coefficients\n\nCompared 5-update vs. 10-update synchronization\n\nFederated model matched test accuracy of best node while reducing variance\n\nLess frequent aggregation reduced communication at no accuracy cost\n\n\n\n\n\nWrote full coordinate descent implementation\n\nBuilt federated synchronization loop and coefficient aggregator\n\nVisualized convergence + coefficient shrinkage patterns\n\nWrote project analysis, discussion, and methodology sections\n\n\n\n\n\nPart A Report: Download\nPart B Report: Download"
+  },
+  {
+    "objectID": "projects/federated-lasso-102b.html#part-a-local-lasso",
+    "href": "projects/federated-lasso-102b.html#part-a-local-lasso",
+    "title": "Lasso Regression & Federated Learning (STAT 102B Final Project)",
+    "section": "",
+    "text": "Implemented cyclic coordinate descent with soft-thresholding\n\nTuned λ via validation loss (grid search)\n\nFound 13 overlapping predictors across nodes\n\nSmaller datasets required stronger regularization\n\nSparser models generalized better"
+  },
+  {
+    "objectID": "projects/federated-lasso-102b.html#part-b-federated-lasso",
+    "href": "projects/federated-lasso-102b.html#part-b-federated-lasso",
+    "title": "Lasso Regression & Federated Learning (STAT 102B Final Project)",
+    "section": "",
+    "text": "Nodes independently tuned λ\n\nPerformed U local updates, then aggregated weighted coefficients\n\nCompared 5-update vs. 10-update synchronization\n\nFederated model matched test accuracy of best node while reducing variance\n\nLess frequent aggregation reduced communication at no accuracy cost"
+  },
+  {
+    "objectID": "projects/federated-lasso-102b.html#my-contributions",
+    "href": "projects/federated-lasso-102b.html#my-contributions",
+    "title": "Lasso Regression & Federated Learning (STAT 102B Final Project)",
+    "section": "",
+    "text": "Wrote full coordinate descent implementation\n\nBuilt federated synchronization loop and coefficient aggregator\n\nVisualized convergence + coefficient shrinkage patterns\n\nWrote project analysis, discussion, and methodology sections"
+  },
+  {
+    "objectID": "projects/federated-lasso-102b.html#files",
+    "href": "projects/federated-lasso-102b.html#files",
+    "title": "Lasso Regression & Federated Learning (STAT 102B Final Project)",
+    "section": "",
+    "text": "Part A Report: Download\nPart B Report: Download"
+  },
+  {
+    "objectID": "projects/music-focus-101b.html",
+    "href": "projects/music-focus-101b.html",
+    "title": "The Modulatory Effects of Music Genre and Exposure Duration on Cognitive Focus (STAT 101B Final Project)",
+    "section": "",
+    "text": "A two-factor ANOVA with blocking (age & gender) analyzed how music genre and listening duration affect sustained attention.\n\n\n\nSignificant main effects: music type (p &lt; 0.001), duration (p = 0.013)\n\nSignificant interaction: genre × duration (p = 0.010)\n\nHeavy metal increased attention misses, especially at 30 minutes.\n\nClassical, Country, and Dance music maintained cognitive performance.\n\n\n\n\n\n216 participants (multistage sampling)\n\nBlocking by age group and gender\n\nTukey HSD to compare genre and duration levels\n\nggplot2 visualizations (interaction plots + boxplots)\n\n\n\n\n\nBuilt ANOVA model & diagnostics\n\nCreated interaction and boxplot visualizations\n\nWrote narrative analysis and interpretation sections\n\n\n\n\n\nFinal Research Paper: Download\nPresentation Slides: Download"
+  },
+  {
+    "objectID": "projects/music-focus-101b.html#key-findings",
+    "href": "projects/music-focus-101b.html#key-findings",
+    "title": "The Modulatory Effects of Music Genre and Exposure Duration on Cognitive Focus (STAT 101B Final Project)",
+    "section": "",
+    "text": "Significant main effects: music type (p &lt; 0.001), duration (p = 0.013)\n\nSignificant interaction: genre × duration (p = 0.010)\n\nHeavy metal increased attention misses, especially at 30 minutes.\n\nClassical, Country, and Dance music maintained cognitive performance."
+  },
+  {
+    "objectID": "projects/music-focus-101b.html#methods",
+    "href": "projects/music-focus-101b.html#methods",
+    "title": "The Modulatory Effects of Music Genre and Exposure Duration on Cognitive Focus (STAT 101B Final Project)",
+    "section": "",
+    "text": "216 participants (multistage sampling)\n\nBlocking by age group and gender\n\nTukey HSD to compare genre and duration levels\n\nggplot2 visualizations (interaction plots + boxplots)"
+  },
+  {
+    "objectID": "projects/music-focus-101b.html#my-contributions",
+    "href": "projects/music-focus-101b.html#my-contributions",
+    "title": "The Modulatory Effects of Music Genre and Exposure Duration on Cognitive Focus (STAT 101B Final Project)",
+    "section": "",
+    "text": "Built ANOVA model & diagnostics\n\nCreated interaction and boxplot visualizations\n\nWrote narrative analysis and interpretation sections"
+  },
+  {
+    "objectID": "projects/music-focus-101b.html#files",
+    "href": "projects/music-focus-101b.html#files",
+    "title": "The Modulatory Effects of Music Genre and Exposure Duration on Cognitive Focus (STAT 101B Final Project)",
+    "section": "",
+    "text": "Final Research Paper: Download\nPresentation Slides: Download"
+  },
+  {
+    "objectID": "projects/datafest-2025.html",
+    "href": "projects/datafest-2025.html",
+    "title": "ASA DataFest 2025 – Commercial Real Estate Analytics",
+    "section": "",
+    "text": "Analyzed 200K+ commercial lease records (2018–2024) from Savills to uncover post-COVID leasing trends in Manhattan’s financial sector.\n\n\n\nManhattan dominated U.S. office leasing volume both before and after COVID.\n\nClass-A demand increased 50%, while B/C space lagged.\n\nSouth Manhattan ZIP codes (10001, 10022) showed the highest square footage.\n\nAvailability remained high (15–20%), giving tenants leverage.\n\nHybrid work reduced seating needs but intensified “flight-to-quality.”\n\n\n\n\n\nCleaned and analyzed 200K+ leasing records\n\nVisualized geographic clustering, Class-A trends, and occupancy correlations\n\nCo-developed the narrative, insights, and final presentation\n\n\n\n\n\nPresentation Slides: Download"
+  },
+  {
+    "objectID": "projects/datafest-2025.html#key-insights",
+    "href": "projects/datafest-2025.html#key-insights",
+    "title": "ASA DataFest 2025 – Commercial Real Estate Analytics",
+    "section": "",
+    "text": "Manhattan dominated U.S. office leasing volume both before and after COVID.\n\nClass-A demand increased 50%, while B/C space lagged.\n\nSouth Manhattan ZIP codes (10001, 10022) showed the highest square footage.\n\nAvailability remained high (15–20%), giving tenants leverage.\n\nHybrid work reduced seating needs but intensified “flight-to-quality.”"
+  },
+  {
+    "objectID": "projects/datafest-2025.html#my-contributions",
+    "href": "projects/datafest-2025.html#my-contributions",
+    "title": "ASA DataFest 2025 – Commercial Real Estate Analytics",
+    "section": "",
+    "text": "Cleaned and analyzed 200K+ leasing records\n\nVisualized geographic clustering, Class-A trends, and occupancy correlations\n\nCo-developed the narrative, insights, and final presentation"
+  },
+  {
+    "objectID": "projects/datafest-2025.html#files",
+    "href": "projects/datafest-2025.html#files",
+    "title": "ASA DataFest 2025 – Commercial Real Estate Analytics",
+    "section": "",
+    "text": "Presentation Slides: Download"
+  },
+  {
+    "objectID": "projects/australia-bushfires-dh101.html",
+    "href": "projects/australia-bushfires-dh101.html",
+    "title": "Australia Bushfires Digital Humanities Project (DH 101 Final Project)",
+    "section": "",
+    "text": "Digital Humanities 101 Final — Summer 2025\nA full web-based mini-site analyzing the 2019–2020 Australian bushfires using NASA FIRMS & MODIS fire datasets.\nLive Website: https://firestorm.humspace.ucla.edu/\n\n\n\nInteractive geospatial fire map\n\nTimeline of major fire events\n\nMODIS/NASA-based charts on fire spread & intensity\n\nNarrative analysis of environmental + social impacts\n\nData critique discussing limitations & representational gaps\n\n\n\n\n\nFire activity peaked during late 2019–early 2020\n\nSoutheastern Australia showed extreme density and severity\n\nClimate anomalies (drought, heat) amplified risk\n\nHuman communities experienced disparate impacts based on geography\n\n\n\n\n\nProcessed fire-archive datasets (NASA/MODIS)\n\nBuilt interactive map, timeline, and statistical visualizations\n\nWrote narrative sections, visualization explanations, and data critique\n\nConnected data findings to climate change + social vulnerability\n\n\n\n\n\nPublic mini-site hosted on HumSpace"
+  },
+  {
+    "objectID": "projects/australia-bushfires-dh101.html#core-features",
+    "href": "projects/australia-bushfires-dh101.html#core-features",
+    "title": "Australia Bushfires Digital Humanities Project (DH 101 Final Project)",
+    "section": "",
+    "text": "Interactive geospatial fire map\n\nTimeline of major fire events\n\nMODIS/NASA-based charts on fire spread & intensity\n\nNarrative analysis of environmental + social impacts\n\nData critique discussing limitations & representational gaps"
+  },
+  {
+    "objectID": "projects/australia-bushfires-dh101.html#insights",
+    "href": "projects/australia-bushfires-dh101.html#insights",
+    "title": "Australia Bushfires Digital Humanities Project (DH 101 Final Project)",
+    "section": "",
+    "text": "Fire activity peaked during late 2019–early 2020\n\nSoutheastern Australia showed extreme density and severity\n\nClimate anomalies (drought, heat) amplified risk\n\nHuman communities experienced disparate impacts based on geography"
+  },
+  {
+    "objectID": "projects/australia-bushfires-dh101.html#my-contributions",
+    "href": "projects/australia-bushfires-dh101.html#my-contributions",
+    "title": "Australia Bushfires Digital Humanities Project (DH 101 Final Project)",
+    "section": "",
+    "text": "Processed fire-archive datasets (NASA/MODIS)\n\nBuilt interactive map, timeline, and statistical visualizations\n\nWrote narrative sections, visualization explanations, and data critique\n\nConnected data findings to climate change + social vulnerability"
+  },
+  {
+    "objectID": "projects/australia-bushfires-dh101.html#files",
+    "href": "projects/australia-bushfires-dh101.html#files",
+    "title": "Australia Bushfires Digital Humanities Project (DH 101 Final Project)",
+    "section": "",
+    "text": "Public mini-site hosted on HumSpace"
   }
 ]
