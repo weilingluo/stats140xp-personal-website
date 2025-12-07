@@ -7,39 +7,11 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "courses",
-    "section": "",
-    "text": "UCLA 2024 Fall\n- Stats 20\n- Stats 100A\n- Comm 188C\nUCLA 2025 Winter\n- Stats 100B\n- Stats 101A\n- Stats 102A\nUCLA 2025 Spring\n- Stats 100C\n- Stats 101B\n- Stats 102B\nUCLA 2025 Summer\n- Stats 102C\n- Dgt Hum 101\n- Environ 25\nUCLA 2025 Fall (In progress)\n- Stats 101C\n- Stats 140XP\n- Scand 50"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Weiling Luo",
-    "section": "",
-    "text": "Weiling Luo is a Statistics & Data Science major at University of California, Los Angeles. During free time Weiling enjoys watching drama shows including C-drama, K-drama, Thai-drama, and etc\nHere is my attached Resume"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Weiling Luo",
-    "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S in Statistics & Data Science | Sept 2024 - June 2026"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
     "text": "Below is a collection of my academic, data science, and digital humanities projects completed at UCLA. Each project includes analysis, modeling, visualizations, and narrative components tailored to its domain.\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAustralia Bushfires Digital Humanities Project (DH 101 Final Project)\n\n\nSummer 2025 • UCLA\n\n\n\n\n\nLos Angeles, CA\n\n\n\n\n\n\n\n\n\n\n\n\nASA DataFest 2025 – Commercial Real Estate Analytics\n\n\nSpring 2025 • UCLA\n\n\n\n\n\nLos Angeles, CA\n\n\n\n\n\n\n\n\n\n\n\n\nLasso Regression & Federated Learning (STAT 102B Final Project)\n\n\nSpring 2025 • UCLA\n\n\n\n\n\nLos Angeles, CA\n\n\n\n\n\n\n\n\n\n\n\n\nHousing Price Prediction (STAT 101A Course Project)\n\n\nWinter 2025 • UCLA\n\n\n\n\n\nLos Angeles, CA\n\n\n\n\n\n\n\n\n\n\n\n\nThe Modulatory Effects of Music Genre and Exposure Duration on Cognitive Focus (STAT 101B Final Project)\n\n\nSpring 2025 • UCLA\n\n\n\n\n\nLos Angeles, CA\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects.html#project-1",
-    "href": "projects.html#project-1",
-    "title": "Projects",
-    "section": "",
-    "text": "Here is my project 1"
   },
   {
     "objectID": "projects/housing-101a.html",
@@ -77,34 +49,6 @@
     "text": "Final Paper: Download\nPresentation Slides: Download"
   },
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "",
-    "text": "Here is my project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "",
-    "text": "Here is my project 3"
-  },
-  {
-    "objectID": "projects.html#project-4",
-    "href": "projects.html#project-4",
-    "title": "Projects",
-    "section": "",
-    "text": "Here is my project 4"
-  },
-  {
-    "objectID": "projects.html#project-5",
-    "href": "projects.html#project-5",
-    "title": "Projects",
-    "section": "",
-    "text": "Here is my project 5"
-  },
-  {
     "objectID": "projects/federated-lasso-102b.html",
     "href": "projects/federated-lasso-102b.html",
     "title": "Lasso Regression & Federated Learning (STAT 102B Final Project)",
@@ -138,6 +82,55 @@
     "title": "Lasso Regression & Federated Learning (STAT 102B Final Project)",
     "section": "",
     "text": "Part A Report: Download\nPart B Report: Download"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Stats 20\n\nStats 100A\n\nComm 188C\n\n\n\n\n\nStats 100B\n\nStats 101A\n\nStats 102A\n\n\n\n\n\nStats 100C\n\nStats 101B\n\nStats 102B\n\n\n\n\n\nStats 102C\n\nDigital Humanities 101\n\nEnviron 25\n\n\n\n\n\nStats 101C\n\nStats 140XP\n\nScandinavian 50\n\n\n\n\n\nStats 141XP\n\nAF AMER 112A\n\nFILM TV 183A"
+  },
+  {
+    "objectID": "courses.html#fall",
+    "href": "courses.html#fall",
+    "title": "Courses",
+    "section": "",
+    "text": "Stats 20\n\nStats 100A\n\nComm 188C"
+  },
+  {
+    "objectID": "courses.html#winter",
+    "href": "courses.html#winter",
+    "title": "Courses",
+    "section": "",
+    "text": "Stats 100B\n\nStats 101A\n\nStats 102A"
+  },
+  {
+    "objectID": "courses.html#spring",
+    "href": "courses.html#spring",
+    "title": "Courses",
+    "section": "",
+    "text": "Stats 100C\n\nStats 101B\n\nStats 102B"
+  },
+  {
+    "objectID": "courses.html#summer",
+    "href": "courses.html#summer",
+    "title": "Courses",
+    "section": "",
+    "text": "Stats 102C\n\nDigital Humanities 101\n\nEnviron 25"
+  },
+  {
+    "objectID": "courses.html#fall-in-progress",
+    "href": "courses.html#fall-in-progress",
+    "title": "Courses",
+    "section": "",
+    "text": "Stats 101C\n\nStats 140XP\n\nScandinavian 50"
+  },
+  {
+    "objectID": "courses.html#winter-planned",
+    "href": "courses.html#winter-planned",
+    "title": "Courses",
+    "section": "",
+    "text": "Stats 141XP\n\nAF AMER 112A\n\nFILM TV 183A"
   },
   {
     "objectID": "projects/music-focus-101b.html",
@@ -236,5 +229,19 @@
     "title": "Australia Bushfires Digital Humanities Project (DH 101 Final Project)",
     "section": "",
     "text": "Public mini-site hosted on HumSpace"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Weiling Luo",
+    "section": "",
+    "text": "Weiling Luo is a Statistics & Data Science major at University of California, Los Angeles. During free time Weiling enjoys watching drama shows including C-drama, K-drama, Thai-drama, and etc\nHere is my attached Resume"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Weiling Luo",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S in Statistics & Data Science | Sept 2024 - June 2026"
   }
 ]
